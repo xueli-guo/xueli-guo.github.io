@@ -35,7 +35,7 @@
     {
       "institution": "Wuhan University",
       "area": "LIESMARS",
-      "studyType": "",
+      "studyType": "Ph.D. Candidate",
       "startDate": "",
       "endDate": "",
       "gpa": null,
@@ -44,10 +44,136 @@
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Event-based and LiDAR SLAM",
+        "LEO satellite navigation enhancement",
+        "Multi-sensor fusion"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [],
-  "presentations": [],
+  "publications": [
+    {
+      "name": "低轨卫星导航增强系统精密星历设计方法研究",
+      "publisher": "大地测量与地球动力学",
+      "releaseDate": "2021-08-01",
+      "website": "",
+      "summary": "郭学立, 王磊. 低轨卫星导航增强系统精密星历设计方法研究[J]. 大地测量与地球动力学, 2021, 41(8): 800-805. 中文核心."
+    },
+    {
+      "name": "An optimal design of the broadcast ephemeris for LEO navigation augmentation systems",
+      "publisher": "Geo-spatial Information Science",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "Guo X, Wang L, Fu W, et al. Geo-spatial Information Science, 2022. 一区, IF: 5.5."
+    },
+    {
+      "name": "Optimal design of the long-term LEO almanac by considering the atmosphere drag effects",
+      "publisher": "Geo-spatial Information Science",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Guo X, Wang L, Li Y, et al. Geo-spatial Information Science, 2024. 一区, IF: 5.5."
+    },
+    {
+      "name": "TL-GILNS: A Trajectory-Layer-Enhanced GNSS/INS/LiDAR Integrated Approach Towards Reliable Positioning and Accurate Accuracy Quantification",
+      "publisher": "IEEE Internet of Things Journal",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Wen Z, Guo X*, Li Y, et al. 一区TOP, 独立通讯, IF: 8.9."
+    },
+    {
+      "name": "Fast monocular visual-inertial calibration and initialization with weak environmental control and motion control",
+      "publisher": "Mechanical Systems and Signal Processing",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Xue Y, Guo X, Lei T, et al. Mechanical Systems and Signal Processing, 2024, 208: 111024. 一区TOP, IF: 8.9."
+    },
+    {
+      "name": "Strong Robust LIO System Based on Event Camera Assistance",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Guo X, Wen Z, Li Y, et al. ISPRS Ann. Photogramm. Remote Sens. Spatial Inf., 2024. EI."
+    },
+    {
+      "name": "EVLINS: Strong Robust Navigation System Based on Event Camera",
+      "publisher": "IEEE Internet of Things Journal",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Guo X, Wen Z, Li Y, et al. IEEE Internet of Things Journal, 2025. 一区TOP, IF: 8.9."
+    },
+    {
+      "name": "WECMD: A Multisource Dataset for Wearable Event Cameras in the Age of Embodied Intelligence",
+      "publisher": "International Journal of Applied Earth Observation and Geoinformation",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Guo X, Wen Z, Li Y, et al. International Journal of Applied Earth Observation and Geoinformation, 2025. 一区TOP, IF: 8.6, accepted."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "International Association of Professionals in Global Positioning Systems (CPGPS)",
+      "event": "2020 International Association of Professionals in Global Positioning Systems (CPGPS)",
+      "date": "2020-01-01",
+      "location": "Shanghai, China",
+      "description": "International conference oral presentation."
+    },
+    {
+      "name": "Ubiquitous Positioning, Indoor Navigation, and Location Based Service (UPINLBS)",
+      "event": "2022 Ubiquitous Positioning, Indoor Navigation, and Location Based Service (UPINLBS)",
+      "date": "2022-01-01",
+      "location": "Wuhan, China",
+      "description": "International conference oral presentation."
+    },
+    {
+      "name": "Ubiquitous Positioning, Indoor Navigation, and Location Based Service (UPINLBS)",
+      "event": "2024 Ubiquitous Positioning, Indoor Navigation, and Location Based Service (UPINLBS)",
+      "date": "2024-01-01",
+      "location": "Perth, Australia",
+      "description": "International conference oral presentation."
+    }
+  ],
   "teaching": [],
-  "portfolio": []
+  "portfolio": [],
+  "awards": [
+    {
+      "title": "国家励志奖学金",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "中石油奖学金",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "于刚宋晓奖学金",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "武汉大学优秀研究生",
+      "date": "",
+      "awarder": "Wuhan University",
+      "summary": ""
+    },
+    {
+      "title": "优秀学生干部",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "三好学生标兵",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ]
 }
