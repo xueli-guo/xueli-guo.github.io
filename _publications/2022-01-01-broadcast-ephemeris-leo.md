@@ -8,5 +8,3 @@ venue: "Geo-spatial Information Science"
 venue_note: "一区, IF: 5.5"
 citation: "Guo X, Wang L, Fu W, et al. An optimal design of the broadcast ephemeris for LEO navigation augmentation systems[J]. Geo-spatial Information Science, 2022."
 ---
-
-一区, IF: 5.5.
